@@ -1,0 +1,4 @@
+# Ignore datasets
+datasets/
+# Ignore python venv folders
+env/
