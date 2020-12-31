@@ -1,5 +1,7 @@
-# Ignore datasets and models
+# Datasets and saved models/scores
 datasets/
 models/
-# Ignore python venv folders
+scores/
+# Python venv folders
 env/
+my_env/
