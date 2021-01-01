@@ -1,7 +1,7 @@
 # Datasets and saved models/scores
 datasets/
 models/
-#scores/
+scores/
 # Python venv folders
 env/
 my_env/
