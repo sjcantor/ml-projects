@@ -1,7 +1,7 @@
 # Housing Prices
 Using a simple housing dataset to predict pricing based on features.  
 <br>
-nbview link (if github preview doesn't work): https://nbviewer.jupyter.org/github/sjcantor/ml-projects/blob/main/housing-prices/housing-prices.ipynb
+[nbview link](https://nbviewer.jupyter.org/github/sjcantor/ml-projects/blob/main/housing-prices/housing-prices.ipynb) (if github preview doesn't work)
 
 ## Module Requirements
 `jupyter matplotlib numpy pandas scipy scikit-learn`
