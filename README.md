@@ -2,13 +2,13 @@
 Small ML projects that don't need their own repo
 
 ## Projects
-**Housing Prices**
+**Housing Prices**  
 Using regression algorithms to predict house value based on distric features.
 
-**MNIST Classification**
+**MNIST Classification**  
 Going back to the basics of classification to explore performance measures and error analysis.
 
-### Module Requirements**
+## Module Requirements
 `jupyter matplotlib numpy pandas scipy scikit-learn`
 
 ## Initialization
