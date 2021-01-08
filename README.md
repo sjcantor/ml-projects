@@ -8,7 +8,7 @@ Using regression algorithms to predict house value based on distric features.
 **MNIST Classification**
 Going back to the basics of classification to explore performance measures and error analysis.
 
-**Module Requirements**
+### Module Requirements**
 `jupyter matplotlib numpy pandas scipy scikit-learn`
 
 ## Initialization
