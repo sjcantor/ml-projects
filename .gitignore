@@ -5,3 +5,6 @@ scores/
 # Python venv folders
 env/
 my_env/
+venv/
+
+.ipynb*
